@@ -88,15 +88,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![Screenshot from 2023-10-05 10-18-31](https://github.com/Dhanudhanaraj/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119218812/66778c72-ede1-428c-8ad2-1070872d3abc)
 
 ### Assignment of x and y values:
+![Screenshot from 2023-10-05 10-18-54](https://github.com/Dhanudhanaraj/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119218812/8caeb808-37fb-4847-8355-946a55c5d104)
 
-![Screenshot from 2023-10-05 10-18-39](https://github.com/Dhanudhanaraj/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119218812/a559ba89-fa60-498c-92e1-89604838cf05)
-
-
-![Screenshot from 2023-10-05 10-18-49](https://github.com/Dhanudhanaraj/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119218812/7e98c895-a4ca-4b99-9579-782eca09c741)
+![Screenshot from 2023-10-05 10-18-39](https://github.com/Dhanudhanaraj/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119218812/932edfa6-d7b7-4da7-80f4-985de5451a84)
 
 ### Converting string literals to numerical values using label encoder:
+![Screenshot from 2023-10-05 10-18-49](https://github.com/Dhanudhanaraj/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119218812/e8649c98-95dc-4c68-8974-2f65b511405d)
 
-![Screenshot from 2023-10-05 10-18-54](https://github.com/Dhanudhanaraj/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119218812/d5f3a8f1-a067-46ca-b3c5-bc510a1f579f)
 
 ### Accuracy:
 
